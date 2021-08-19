@@ -1,0 +1,29 @@
+{
+  "name": "audio-commander",
+  "version": "1.0.0",
+  "description": "HTML5 Audio helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlatnaspirala/audio-commander.git"
+  },
+  "keywords": [
+    "html5",
+    "audio",
+    "resource",
+    "auto-play",
+    "play-audio",
+    "play",
+    "from",
+    "code"
+  ],
+  "author": "Nikola Lukic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zlatnaspirala/audio-commander/issues"
+  },
+  "homepage": "https://github.com/zlatnaspirala/audio-commander#readme"
+}
